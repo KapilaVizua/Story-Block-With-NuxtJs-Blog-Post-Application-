@@ -1,0 +1,20 @@
+{
+  "name": "recipe-blog",
+  "version": "1.0.0",
+  "description": "My primo Nuxt.js project",
+  "author": "kapila",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "material-icons": "^0.3.1",
+    "nuxt": "^2.0.0",
+    "storyblok-nuxt": "^1.0.2",
+    "vuesax": "^3.10.5"
+  },
+  "devDependencies": {}
+}
